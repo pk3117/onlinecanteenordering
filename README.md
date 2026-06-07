@@ -89,7 +89,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/asnaassalam/online-food-ordering-system.git
+   git clone https://github.com/pk3117/onlinecanteenoedering.git
 
 2. **Navigate to the project directory:**
     
@@ -151,7 +151,7 @@ After logging in, you can browse the menu, add items to your cart, place orders,
 
 ## Author
 
-- **[Asna Assalam](https://github.com/asnaassalam)**: Creator and developer of the Online Food Order System.
+- **[PRADEEPKUMAR K](https://github.com/pk3117)**: Creator and developer of the Online Food Order System.
  
 
 
